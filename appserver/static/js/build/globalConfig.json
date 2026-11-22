@@ -2,7 +2,7 @@
     "meta": {
         "name": "TA-azure-public-service-tag-and-ip-download",
         "displayName": "Azure public service tag and IP download",
-        "version": "1.0.0",
+        "version": "1.0.4",
         "restRoot": "TA_azure_public_service_tag_and_ip_download",
         "schemaVersion": "0.0.3"
     },
